@@ -1,6 +1,5 @@
 # bee.github.io
 Visit bee.github.io
 
-<video width="400" controls>
-  <source src="https://www.youtube.com/watch?v=mkYBxfKDyv0" type="video/mp4">
-</video>
+
+[![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](https://www.youtube.com/watch?v=mkYBxfKDyv0 "Little red riding hood - Click to Watch!")
